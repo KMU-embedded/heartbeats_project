@@ -1,1 +1,0 @@
-cmd_/home/casionwoo/odroid_XU3/module_practice/heartbeat.ko := arm-eabi-ld -EL -r  -T /home/casionwoo/odroid_XU3/linux/linux/scripts/module-common.lds --build-id  -o /home/casionwoo/odroid_XU3/module_practice/heartbeat.ko /home/casionwoo/odroid_XU3/module_practice/heartbeat.o /home/casionwoo/odroid_XU3/module_practice/heartbeat.mod.o
